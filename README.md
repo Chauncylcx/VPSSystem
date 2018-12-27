@@ -89,5 +89,11 @@
 	SQLITE3 数据库文件，如果没有这个文件，当建表的时候会自动生成
 
 
+# 示例图
 
-
+![Image text](https://github.com/Chauncylcx/VPSSystem/blob/master/picture/login.png)
+![Image text](https://github.com/Chauncylcx/VPSSystem/blob/master/picture/index.png)
+![Image text](https://github.com/Chauncylcx/VPSSystem/blob/master/picture/remerb.png)
+![Image text](https://github.com/Chauncylcx/VPSSystem/blob/master/picture/update.png)
+![Image text](https://github.com/Chauncylcx/VPSSystem/blob/master/picture/usermanage.png)
+      
