@@ -1,0 +1,9 @@
+PyQt5
+PyQt5-tools
+email
+sqlite3
+smtplib
+xlwt
+xlrd
+requests
+BeautifulSoup4
